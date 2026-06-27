@@ -1,4 +1,4 @@
-![Banner](olist-banner.png)
+<img src="olist-banner.png" width="100%"/>
 
 # Diagnosing Olist — A Revenue & Retention Analysis
 
