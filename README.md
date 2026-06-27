@@ -1,5 +1,3 @@
-# olist-revenue-retention-analysis
-
 # Diagnosing Olist — A Revenue & Retention Analysis
 
 ## Overview
